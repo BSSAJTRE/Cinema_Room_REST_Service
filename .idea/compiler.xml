@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-ArrayList-Creating_list.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-ArrayList-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Custom_threads-Starting_runnables.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Custom_threads-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-The_Map_interface-Creating_a_map.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-The_Map_interface-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-The_Set_interface-Creating_a_set.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-The_Set_interface-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_management-Ordering_the_execution_of_threads.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_management-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_synchronization-Multithreaded_counter.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_synchronization-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Threads_as_objects-Getting_current_thread_info.main" target="11" />
+      <module name="Cinema_Room_REST_Service.Topics-Threads_as_objects-Theory.main" target="11" />
+      <module name="Cinema_Room_REST_Service.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
